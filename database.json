@@ -1,48 +1,3164 @@
 {
-  "products": [
+  "hotels": [
+    {
+      "idHotel": 1,
+      "id": 1,
+      "nameHotel": "Redac Gateway Hotel",
+      "price": 136,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685451302/Bar-on-property-2-1-450x300_gxlspi.png",
+      "star": 2,
+      "location": "Los Angeles",
+      "review": "Very Good",
+      "description": [
+        "Nestled in the heart of Torrance, Redac Gateway Hotel in Torrance is an ideal spot from which to discover Los Angeles (CA). From here, guests can enjoy easy access to all that the lively city has to offer. With its convenient location, the hotel offers easy access to the city’s must-see destinations.",
+        "At Redac Gateway Hotel in Torrance, the excellent service and superior facilities make for an unforgettable stay. Guests of the hotel can enjoy on-site features like free Wi-Fi in all rooms, 24-hour front desk, facilities for disabled guests, express check-in/check-out, luggage storage.",
+        "Experience high quality room facilities during your stay here. Some rooms include television LCD/plasma screen, carpeting, linens, mirror, sofa, provided to help guests recharge after a long day. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Redac Gateway Hotel in Torrance is an ideal place of stay for travelers seeking charm, comfort and convenience in Los Angeles (CA)."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685088384/1-1_xoyl2m.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685088381/1-2_iwivcg.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685088379/1-3_xseosn.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685088380/1-4_jmxw5c.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685088391/1-5_tpkr5a.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Double Room",
+          "detail": {
+            "S": "170m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 160,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111712/stand-1_bypyrq.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111709/stand-2_rigfjj.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111710/stand-3_fymfgu.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111709/stand-4_pywair.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111710/stand-5_dojmhc.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Room Width Town View",
+          "detail": {
+            "S": "250m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 360,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Shampoo",
+            "Suitcase key"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111904/town-1_faxrfm.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111906/town-2_msx8qf.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111909/town-3_qqempl.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111904/town-4_an8jch.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685111904/town-5_wm8thf.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "190m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 136,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Shampoo",
+            "Suitcase key",
+            "Towels"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112200/Premier-Inn-Dubai-Barsha-Heights_cjq8ue.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112197/Premier-Inn-Dubai-Barsha-Heights-2_ot4ttl.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112198/Premier-Inn-Dubai-Barsha-Heights-3_yvcxun.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112198/Premier-Inn-Dubai-Barsha-Heights-4_vfrfpa.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112201/Premier-Inn-Dubai-Barsha-Heights-5_hqdfu0.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Fitness Center",
+        "Heater",
+        "Internet – Wifi",
+        "Spa & Sauna",
+        "Restaurant",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 2,
+      "id": 2,
+      "nameHotel": "Eastern Discovery",
+      "price": 100,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030488/2_vgpn7a.png",
+      "star": 4,
+      "location": "New York City",
+      "review": "Poor",
+      "newHotel": "new hotel",
+      "description": [
+        "Start in New Orleans and end in New York City! With the discovery tour Eastern Discovery (Start New Orleans), you have a 14 day tour package taking you from New Orleans to New York City and through New Orleans, USA and 14 other destinations in USA. Eastern Discovery (Start New Orleans) includes accommodation in a hotel as well as an expert guide, meals, transport and more."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089056/2-1_zahsrv.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089058/2-2_bl5kzm.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089059/2-3_ycpdex.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089058/2-4_i7q9a5.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089059/2-5_qwjwyg.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Queen Room Discovery",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "2",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 350,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112501/Gulf-Court-Hotel-Business-Bay_qqxccb.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112501/Gulf-Court-Hotel-Business-Bay-2_xjemmz.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112498/Gulf-Court-Hotel-Business-Bay-3_lvliba.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112498/Gulf-Court-Hotel-Business-Bay-4_tz5efk.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112501/Gulf-Court-Hotel-Business-Bay-5_fzk0uq.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Lake Tahoe House",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 150,
+          "facilities": [
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112583/Manzil-Downtown_l3zzwh.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112581/Manzil-Downtown-2_ygg7tw.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112582/Manzil-Downtown-3_e1fxej.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112583/Manzil-Downtown-4_yntbmj.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112582/Manzil-Downtown-5_zehkpj.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 100,
+          "facilities": [
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen",
+            "Shampoo"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112821/Address-Downtown-1_wearod.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112824/Address-Sky-View_kqpoba.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112821/Address-Sky-View-2_mklkzf.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112822/Address-Sky-View-3_sd0fnv.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685112822/Address-Sky-View-4_k6iph0.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Flat Tv",
+        "Heater",
+        "Internet – Wifi",
+        "Spa & Sauna",
+        "Restaurant",
+        "Airport Transport"
+      ]
+    },
+    {
+      "idHotel": 3,
+      "id": 3,
+      "nameHotel": "Southwest States",
+      "price": 150,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030489/3_bbwzs3.png",
+      "star": 2,
+      "location": "Los Angeles",
+      "review": "Excellent",
+      "description": [
+        "This boutique hotel in the Manhattan neighborhood of Nolita features a private rooftop and rooms with free WiFi. The Bowery subway station is 1 block from this New York hotel.",
+        "Guest rooms at the Nolitan Hotel provide a 37-inch flat-screen cable TV and an iPod dock. The bathrooms provide bathrobes and slippers.",
+        "The hotel provides free bike rentals and a local gym membership for guests. There is also on-site dining at the French bistro Cantine Parisienne. A complimentary wine and cheese hour is served every Monday through Saturday.",
+        "Times Square, Rockefeller Center and Madison Square Garden are 4.8 km from The Nolitan Hotel. The hotel is bordered by SoHo, Little Italy and Chinatown.",
+        "NoLita is a great choice for travelers interested in nightlife, food and culture.",
+        "In this area you can shop ’til you drop for popular brands like Apple, H&M, Zara, Prada, Ralph Lauren.",
+        "We speak your language!"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089421/3-1_kbjdsx.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089420/3-2_nf5gwt.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089420/3-3_shqh7g.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089420/3-4_mizryr.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089421/3-5_kj5or4.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "250m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 324,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen",
+            "Shampoo",
+            "Towels"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113199/JA-The-Resort-JA-Beach-hotel_roxbee.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113199/JA-The-Resort-JA-Beach-hotel-2_mbdthm.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113199/JA-The-Resort-JA-Beach-hotel-3_tjokmt.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113203/JA-The-Resort-JA-Beach-hotel-4_umg4yz.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113201/JA-The-Resort-JA-Beach-hotel-5_vbdubd.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Room Kerama Islands",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 180,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hot water",
+            "Shampoo"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113224/Rove-La-Mer-Beach_utgxyp.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113224/Rove-La-Mer-Beach-2_iaokps.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113223/Rove-La-Mer-Beach-3_michya.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113224/Rove-La-Mer-Beach-4_ulwbsj.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113228/Rove-La-Mer-Beach-5_wxd7wx.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Deluxe",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 150,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen",
+            "Suitcase key",
+            "Towels"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113338/Staybridge-Suites-Dubai-Al-Maktoum-Airport-an-IHG-Hotel-5-1_pvobbl.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113337/Paramount-Hotel-Midtown_ahwwck.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113337/Paramount-Hotel-Midtown-2_unoe05.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113336/Paramount-Hotel-Midtown-3_afeogs.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685113337/Paramount-Hotel-Midtown-4_jyqzxw.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Flat Tv",
+        "Parking",
+        "Internet – Wifi",
+        "Spa & Sauna",
+        "Restaurant",
+        "Airport Transport",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 4,
+      "id": 4,
+      "nameHotel": "TreeHouse Villas",
+      "price": 225,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030489/4_ntf0bp.png",
+      "star": 3,
+      "location": "California City, CA, USA",
+      "review": "Excellent",
+      "newHotel": "new hotel",
+      "description": [
+        "Eum eu sumo albucius perfecto, commodo torquatos consequuntur pro ut, id posse splendide ius. Cu nisl putent omittantur usu, mutat atomorum ex pro, ius nibh nonumy id. Nam at eius dissentias disputando, molestie mnesarchum complectitur per te. In commune pericula mediocritatem per. Cu audiam dolorum appareat per, id habeo suavitate argumentum vel. Te his eros ludus tibique.",
+        "Iriure evertitur vix cu, ad has dictas mandamus explicari, ne vocibus consectetuer cum. Ea prima perfecto sed. Summo impedit mentitum cum ut. Verear prompta recteque ex vix. No cum quidam antiopam, numquam equidem eam ea. Eos eu hinc doctus interpretaris, quis mucius et ius.",
+        "Ridens reprimique sed ei, ei qui dicta officiis. Dicat intellegebat vim in, at fastidii prodesset gloriatur qui, sed dicam eripuit necessitatibus an. Has ex enim adolescens vituperata. Nam malorum debitis reprimique no, quaestio percipitur referrentur pro te."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089678/4-1_obecb9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089678/4-2_xdksv3.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089680/4-3_lvooo7.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089678/4-4_t5eqtq.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089678/4-5_g0xniq.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Lake Tahoe House",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 350,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Kitchen",
+            "Shampoo"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114207/dba6903d_b6tpvm.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114207/Palace-Downtown-2_jrcapc.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114206/Palace-Downtown-3_fqwzez.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114212/Palace-Downtown_y4syup.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114207/beecdbc6_wv3cbb.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Bebe With Lake View",
+          "detail": {
+            "S": "240m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 160,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114256/Rove-Expo-2020_jnjsnd.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114254/Rove-Expo-2020-2_px5qea.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114254/Rove-Expo-2020-3_yasjck.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114254/f6302ace_wvnhdq.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114254/Rove-Expo-2020-4_ylnjvu.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Double Room",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 180,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Flat Screen TV"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114357/FIVE-Palm-Jumeirah-Dubai_podiza.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114352/FIVE-Palm-Jumeirah-Dubai-2_x1bell.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114352/FIVE-Palm-Jumeirah-Dubai-3_jqkrre.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114352/FIVE-Palm-Jumeirah-Dubai-4_ureac5.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114352/FIVE-Palm-Jumeirah-Dubai-5_e0b4xe.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Flat Tv",
+        "Internet – Wifi",
+        "Spa & Sauna",
+        "Restaurant",
+        "Airport Transport",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 5,
+      "id": 5,
+      "nameHotel": "Vnahomes Aparhotel",
+      "price": 160,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030489/5_exawbo.png",
+      "star": 4,
+      "location": "Nevada",
+      "review": "Excellent",
+      "description": [
+        "Whether you’re a tourist or traveling on business, Hotel WBF Kitasemba WEST is a great choice for accommodation when visiting Osaka. The excitement of the city center is only away. With its convenient location, the property offers easy access to the city’s must-see destinations.",
+        "Hotel WBF is renowned for its quality services and friendly staff, and Hotel WBF Kitasemba WEST lives up to expectations. Facilities like free Wi-Fi in all rooms, 24-hour security, daily housekeeping, laundromat, taxi service are readily available for the convenience of each guest.",
+        "Experience high quality room facilities during your stay here. Some rooms include humidifier, complimentary tea, towels, clothes rack, slippers to help guests recharge after a long day. The property’s host of recreational offerings ensures you have plenty to do during your stay. Hotel WBF Kitasemba WEST is a smart choice for travelers to Osaka, offering a relaxed and hassle-free stay every time."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089991/5-1_jwtlka.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089996/5-2_ackfym.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089996/5-3_nqbkb8.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089998/5-4_m69bb6.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685089996/5-5_dbdalq.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "250m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 200,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Flat Screen TV"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114933/ef810519_zw4vnc.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114933/Armani-Hotel-Dubai_bmofpc.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114932/Armani-Hotel-Dubai-2_snlvop.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114932/Armani-Hotel-Dubai-3_zx2jtq.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114933/Armani-Hotel-Dubai-4_snidhr.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Executive Room Lake View",
+          "detail": {
+            "S": "180m²",
+            "Beds": "3",
+            "Adults": "5",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 250,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114892/Movenpick-Hotel-Jumeirah-Lakes-Towers_r5bpng.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114890/Movenpick-Hotel-Jumeirah-Lakes-Towers-2_yiwmyb.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114890/Movenpick-Hotel-Jumeirah-Lakes-Towers-3_effmpe.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114891/Movenpick-Hotel-Jumeirah-Lakes-Towers-4_al1cld.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114892/Movenpick-Hotel-Jumeirah-Lakes-Towers-5_mkukbm.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Room Kerama Islands",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "5",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "price": 150,
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Flat Screen TV",
+            "Shampoo"
+          ],
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114798/aa1923fb_xmim38.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114798/Shangri-La-Dubai-1_zvjntf.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114806/Shangri-La-Dubai-2_w2mckz.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114799/ab302776_ya19ec.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685114799/Shangri-La-Dubai-3_ykcpso.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Flat Tv",
+        "Parking",
+        "Spa & Sauna",
+        "Restaurant",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 6,
+      "id": 6,
+      "nameHotel": "Parian Holiday Villas",
+      "price": 150,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030489/6_rrrco1.png",
+      "star": 3,
+      "location": "California",
+      "review": "Excellent",
+      "newHotel": "new hotel",
+      "description": [
+        "Ideally located in Times Square, this Manhattan hotel has been around since 1930. With distinct influences of the Art Deco era in the design of the lobby and the exterior, Hotel Edison offers classic and signature rooms and suites. The Empire State Building is only 1.6 kilometers away while the Jacob K. Javits is about 1.9 kilometers from the hotel. The Rockefeller Centre is in close proximity to the hotel as well. With its convenient location, the property offers easy access to the city’s must-see destinations.",
+        "Offering guests superior services and a broad range of amenities, Hotel Edison is committed to ensuring that your stay is as comfortable as possible. Every room and suite in this hotel features air conditioning and flat-screen TV with satellite/cable channels. The private bathrooms are equipped with a hairdryer and free toiletries.",
+        "Take advantage of a wealth of unrivaled services and amenities at this Manhattan hotel. Guests of the hotel can enjoy on-site features like concierge service, 24-hour business center, room service, 24-hour fitness center, transportation desk and Edison Ballroom for events. The hotel’s Bond 45 is recently opened serving lunch and dinner. The Rum House, featuring a copper and wood themed design, is only a minute away from the hotel and offers live entertainment on occasion. There are several other dining options in the area as well. Hotel Edison is your one-stop destination for quality hotel accommodations in New York."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685101516/6-1_k3isw9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685101516/6-2_j60csc.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685101523/6-3_iqcowj.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685101516/6-4_gudi5m.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685101524/6-5_h7kkf3.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Normal Room",
+          "detail": {
+            "S": "190m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 260,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241741/Bomo-Nairi-Hotel-4_fwwxwt.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241741/Comfort-Hotel-2-1_dtj1cy.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241740/Bomo-Nairi-Hotel-2_gxgrxw.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241740/Bomo-Nairi-Hotel-3_ajjm9i.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241740/Bomo-Nairi-Hotel_d5oebz.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 180,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241873/Nacho-Hotel-Yerevan_owukkh.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241873/Nacho-Hotel-Yerevan-4_h4ffau.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241872/Nacho-Hotel-Yerevan-3_i5w2kw.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241872/abf8950c_h1dqed.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685241872/Nacho-Hotel-Yerevan-2_ovys31.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 260,
+          "images": [
+            ""
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport"
+      ]
+    },
+    {
+      "idHotel": 7,
+      "id": 7,
+      "nameHotel": "Hotel Astotel",
+      "price": 185,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/7_pe8m82.png",
+      "star": 5,
+      "location": "Poor",
+      "review": "Excellent",
+      "newHotel": "new hotel",
+      "description": [
+        "In a cool and modern atmosphere, guests here will be delighted to know they are in the heart of Paris (2nd arrondissement).",
+        "From this historical location, you can access city attractions such as the Musee du Louvre, Jardin des Tuileries, Opera Garnier, Bourse, and the Place des Victoires. Try a meal at the al fresco restaurant with an interesting take on style and architecture.",
+        "Get easily around Paris, you’re close to everything. Take a friend out to the opera for a night of pleasant cultural activities, or dine out at one of the many incredible restaurants nearby for which Paris is known for. Finally, additionally to the free Open-bar (soft drinks and snacks) available every afternoon in the lobby, each of the 64 air-conditioned rooms offers complimentary WiFi access and minibar (soft drinks).",
+        "Hotel Malte – Astotel is an excellent base from which to explore the famous attractions of the French capital."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102100/7-1_gjxzpv.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102100/7-2_kjjuta.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102101/7-3_yoobdy.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102100/7-4_u9zfkk.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102111/7-5_nfrved.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Family Room",
+          "detail": {
+            "S": "300m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 451,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685153361/Courtyard-by-Marriott-LA-Hacienda-HeightsOrange-County_bgz1bw.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685153361/Courtyard-by-Marriott-LA-Hacienda-HeightsOrange-County-5_c1wofb.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685153361/Courtyard-by-Marriott-LA-Hacienda-HeightsOrange-County-4_m87h1j.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685153360/Courtyard-by-Marriott-LA-Hacienda-HeightsOrange-County-2_e57bet.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685153360/Courtyard-by-Marriott-LA-Hacienda-HeightsOrange-County-3_in6lqh.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "170m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 185,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155137/5066502e_na7bhm.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155138/RIS-Central-Apartments-Yerevan_ygjtyl.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155137/RIS-Central-Apartments-Yerevan-2_txkb8u.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155138/RIS-Central-Apartments-Yerevan-3_puopkk.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155138/RIS-Central-Apartments-Yerevan-4_vmhkc6.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Double Room",
+          "detail": {
+            "S": "230m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 260,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155374/72ecfbad_e69pbp.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155375/RIS-Dalma-Collection-Yerevan_ogsruk.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155375/RIS-Dalma-Collection-Yerevan-2_n6dcse.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155374/RIS-Dalma-Collection-Yerevan-3_fmkqwp.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155375/RIS-Dalma-Collection-Yerevan-4_mqpbj9.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Flat Tv",
+        "Airport Transport",
+        "Heater"
+      ]
+    },
+    {
+      "idHotel": 8,
+      "id": 8,
+      "nameHotel": "The May Fair Hotel",
+      "price": 140,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/8_ymlr1w.png",
+      "star": 5,
+      "location": "Nevada",
+      "review": "Excellent",
+      "description": [
+        "Offering quality accommodations in the restaurants, sightseeing and shopping area of Mayfair, The May Fair Hotel is a popular pick for leisure travelers. The May Fair Hotel is near the Buckingham Palace and Bond street’s exclusive jewelry stores, cafe and boutiques as well as Berkeley street’s world famous restaurants. It’s the perfect base from which to explore the fashion, art and culture that make this property the place to be for locals, celebrities and business travelers. Green park station is around the corner, providing easy access to Canary Wharf. With its convenient location, the property offers easy access to the city’s must-see tourist destinations.",
+        "At The May Fair Hotel, every effort is made to make guests feel comfortable. The property offers stylish doubles & family rooms to luxurious suites and 8 splendid signature suites. The property’s bedrooms features elegant, contemporary decor, Italian marble bathrooms and luxury Visping beds with down pillows and 350 thread count Egyptian cotton bedding."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102289/8-1_xcagpf.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102291/8-2_ksezdy.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102289/8-3_ipgg4b.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102291/8-4_ydpezt.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102308/8-5_isbo0o.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen",
+            "Shampoo"
+          ],
+          "price": 150,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155992/Commerce-Casino-Hotel_q232lk.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155992/Commerce-Casino-Hotel-2_fbhhlx.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155992/Commerce-Casino-Hotel-3_crpgvd.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155992/Commerce-Casino-Hotel-4_nugxym.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155992/Commerce-Casino-Hotel-5_mrxbhq.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Lake Tahoe House",
+          "detail": {
+            "S": "180m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 140,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156093/Comfort-Hotel-4-1_wdge6z.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156093/Hollywood-Inn-Express-South_ybpo0o.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156093/Hollywood-Inn-Express-South-2_djihm1.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156092/Four-Points-by-Sheraton-Los-Angeles-International-Airport_arvbgo.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156092/Comfort-Hotel-3-1_mdj9i3.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Deluxe Suite",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Hair dryer",
+            "Shampoo",
+            "Wifi"
+          ],
+          "price": 260,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156230/b086aebb_g4fbts.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156230/Residence-Inn-By-Marriott-Torrance-Redondo-Beach-3_stossl.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156230/Residence-Inn-By-Marriott-Torrance-Redondo-Beach-2_bmw5ss.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156230/Residence-Inn-By-Marriott-Torrance-Redondo-Beach-4_duakiq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685156230/Residence-Inn-By-Marriott-Torrance-Redondo-Beach_iwnboj.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Flat Tv",
+        "Airport Transport"
+      ]
+    },
+    {
+      "idHotel": 9,
+      "id": 9,
+      "nameHotel": "EnVision Hotel Boston",
+      "price": 135,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/9_ybih8g.png",
+      "star": 5,
+      "location": "Los Angeles",
+      "review": "Excellent",
+      "newHotel": "new hotel",
+      "description": [
+        "Conveniently located in Boston (MA), enVision Hotel Boston-Longwood an Ascend Hotel Col is a great base from which to explore this vibrant city. From here, guests can enjoy easy access to all that the lively city has to offer. No less exceptional is the hotel’s easy access to the city’s myriad attractions and landmarks, such as Children’s Hospital, Massart, Gasp.",
+        "First-rate hotel services and facilities that define the Choice Hotels experience await you at the enVision Hotel Boston-Longwood an Ascend Hotel Col. For the comfort and convenience of guests, the hotel offers Wi-Fi in public areas, pets allowed.",
+        "Experience high quality room facilities during your stay here. Some rooms include television LCD/plasma screen, air conditioning, heating, iPod docking station, internet access – LAN (complimentary), provided to help guests recharge after a long day. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at enVision Hotel Boston-Longwood an Ascend Hotel Col."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102470/9-1_dokxqm.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102471/9-2_sd5klr.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102472/9-3_nttxnl.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102485/9-4_t7qehd.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102471/9-5_violds.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Room Sheraton",
+          "detail": {
+            "S": "280m²",
+            "Beds": "3",
+            "Adults": "6",
+            "Children": "0"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 170,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685138137/f81855fd_x1v8xg.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685138132/Hotel-National_qasuzv.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685138133/Hotel-National-2_pndlno.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685138132/Hotel-National-3_shqlfc.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685138132/Comfort-Hotel-3-2_d7qoxo.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Room External",
+          "detail": {
+            "S": "280m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Wifi"
+          ],
+          "price": 190,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149618/f536449f_jszjcw.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149618/Hyatt-Place-Yerevan_fn0vt0.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149618/Hyatt-Place-Yerevan-2_kzrudh.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149618/Hyatt-Place-Yerevan-3_iz0ezg.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149618/Comfort-Hotel-1_bjdlae.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Executive Room Lake View",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 250,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149785/bf063710_tvywll.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149786/Tsaghkadzor-Marriott-Hotel_uf2znf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149785/Tsaghkadzor-Marriott-Hotel-2_e0vtld.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149786/Tsaghkadzor-Marriott-Hotel-3_pzhxgo.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685149785/Tsaghkadzor-Marriott-Hotel-4_pzalcm.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Airport Transport",
+        "Flat Tv",
+        "Parking",
+        "Spa & Sauna",
+        "Restaurant",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 10,
+      "id": 10,
+      "nameHotel": "Studio Allston Hotel",
+      "price": 150,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/10_fnjwec.png",
+      "star": 4,
+      "location": "California",
+      "review": "Excellent",
+      "description": [
+        "Studio Allston Hotel is the ideal point of departure for your excursions in Boston (MA). Conveniently located on the Charles River near Harvard University, the property offers spacious accommodation, contemporary technology and ample facilities for an excellent visit to historic Boston.",
+        "Top features of the property include complimentary parking on-site, full service restaurant serving breakfast, lunch and dinner and free wireless internet access. Enjoy nearby jogging and bicycle paths, while children will like the play area across the street.",
+        "All rooms exude an atmosphere of total peace and harmony that feature thoughtful amenities to ensure an unparalleled sense of comfort for the guests such as air conditioning, heating, satellite/cable channels, ironing facilities and toiletries. Studio Allston Hotel is an ideal place of stay for travelers seeking charm, comfort and convenience in Boston (MA)."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102661/10-1_iqju8f.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102661/10-2_buksam.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102661/10-3_kfncpa.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102661/10_4_ypeaz9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685102664/10-5_l8fltv.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "250m²",
+            "Beds": "2",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 210,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685329112/baa8306b_maelpy.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685329112/Armenia-Marriott-Hotel-Yerevan_mqs5w1.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685329112/Armenia-Marriott-Hotel-Yerevan-2_bby862.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685329111/Armenia-Marriott-Hotel-Yerevan-4_ysnxun.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685329111/Armenia-Marriott-Hotel-Yerevan-3_o6fd5e.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Hair dryer"
+          ],
+          "price": 342,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349223/Hotel-North-Avenue-3_bstpor.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349219/Hotel-North-Avenue-4_v7q8mf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349220/Hotel-North-Avenue_pad2j2.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349219/Hotel-North-Avenue-2_nhztg2.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349219/Hotel-North-Avenue-5_f4gshq.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "240m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Towels"
+          ],
+          "price": 180,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349339/Paris-Hotel-Yerevan-2_ladu2i.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349337/Paris-Hotel-Yerevan-4_wuh1wy.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349337/Paris-Hotel-Yerevan_n2nwl1.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349337/Paris-Hotel-Yerevan-3_hg2anr.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349337/Paris-Hotel-Yerevan-5_jxqwo6.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Heater",
+        "Internet – Wifi",
+        "Restaurant",
+        "Smoking Room",
+        "Spa & Sauna"
+      ]
+    },
+    {
+      "idHotel": 11,
+      "id": 11,
+      "nameHotel": "Hotel Malte Astotel",
+      "price": 210,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/11_guzn4w.png",
+      "star": 3,
+      "location": "Los Angeles",
+      "review": "Average",
+      "newHotel": "new hotel",
+      "description": [
+        "In a cool and modern atmosphere, guests here will be delighted to know they are in the heart of Paris (2nd arrondissement).",
+        "From this historical location, you can access city attractions such as the Musee du Louvre, Jardin des Tuileries, Opera Garnier, Bourse, and the Place des Victoires. Try a meal at the al fresco restaurant with an interesting take on style and architecture.",
+        "Get easily around Paris, you’re close to everything. Take a friend out to the opera for a night of pleasant cultural activities, or dine out at one of the many incredible restaurants nearby for which Paris is known for. Finally, additionally to the free Open-bar (soft drinks and snacks) available every afternoon in the lobby, each of the 64 air-conditioned rooms offers complimentary WiFi access and minibar (soft drinks).",
+        "Hotel Malte – Astotel is an excellent base from which to explore the famous attractions of the French capital."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105391/11-1_gxgvx9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105390/11-2_bykgra.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/11-3_k8zkno.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105395/11-4_ldufue.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/11-5_mczu5b.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "6",
+            "Children": "0"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Towels"
+          ],
+          "price": 178,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349904/578dbdfc_bvjmvu.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349902/Europe-Hotel_vkdj69.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349902/Europe-Hotel-3_avzphx.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349902/Europe-Hotel-4_lhkzr3.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685349901/Europe-Hotel-2_gkvwm5.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Double Room",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 240,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685350042/ee631397_t5vtqx.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685350040/ibis-Yerevan-Center-3_auqvvm.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685350040/ibis-Yerevan-Center-4_mnjzz2.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685350040/ibis-Yerevan-Center-2_kgmic5.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685350040/ibis-Yerevan-Center_lnbj2l.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Double Room",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "2",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 160,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351494/887ebdad_u5uacz.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351492/Best-Western-Plus-Congress-Hotel-3_ctwork.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351492/Best-Western-Plus-Congress-Hotel-2_xzjhdz.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351492/Best-Western-Plus-Congress-Hotel_ftz3qu.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351492/Best-Western-Plus-Congress-Hotel-4_yakzju.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Heater",
+        "Internet – Wifi",
+        "Parking",
+        "Restaurant",
+        "Smoking Room",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 12,
+      "id": 12,
+      "nameHotel": "Vnahomes Aparhotel",
+      "price": 163,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/12_wuzeks.png",
+      "star": 5,
+      "location": "San Francisco, Wilmington",
+      "review": "Excellent",
+      "description": [
+        "Set in Hanoi and with Vietnam Museum of Ethnology reachable within 1.7 km, VNAHOMES APARTHOTEL offers express check-in and check-out, non-smoking rooms, a shared lounge, free WiFi throughout the property and a garden. Boasting family rooms, this property also provides guests with a terrace. The accommodation features a 24-hour front desk and luggage storage space for guests.",
+        "At the hotel, the rooms are equipped with a desk, a flat-screen TV, a private bathroom, bed linen and towels. All rooms include a kettle, while some rooms also feature a balcony and others also feature city views. All guest rooms at VNAHOMES APARTHOTEL feature air conditioning and a wardrobe.",
+        "Guests at the accommodation will be able to enjoy activities in and around Hanoi, like cycling.",
+        "West Lake is 2.5 km from VNAHOMES APARTHOTEL, while Quan Thanh Temple is 2.9 km from the property. The nearest airport is Noi Bai International, 18 km from the hotel, and the property offers a paid airport shuttle service.",
+        "Couples particularly like the location — they rated it 10 for a two-person trip."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/12-1_t1s4xb.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105408/12-2_mumvsa.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105407/12-3_tiuo2y.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105406/12-4_rnw3mk.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105408/12-5_c2ttgk.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Deluxe",
+          "detail": {
+            "S": "190m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Shampoo",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 190,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352477/Central-Hotel_mp7gno.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352477/Central-Hotel-4_aymvb4.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352476/Central-Hotel-5_womyjn.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352476/Central-Hotel-2_f4e3mx.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352476/Central-Hotel-3_t229ky.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 136,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352593/65030dac_c65ygo.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352589/Elysium-Gallery-Hotel-2_etl2gr.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352588/Elysium-Gallery-Hotel-3_mensgf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352587/Elysium-Gallery-Hotel-4_mbwpeh.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352587/Elysium-Gallery-Hotel_ldniu8.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 150,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352715/Hotel-Viaggio-5_no7npa.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352713/Hotel-Viaggio-2_hkor6p.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352712/Hotel-Viaggio-3_i7y79n.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352712/Hotel-Viaggio-4_t4klnj.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352712/Hotel-Viaggio_yih5zj.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Flat Tv",
+        "Internet – Wifi",
+        "Parking"
+      ]
+    },
+    {
+      "idHotel": 13,
+      "id": 13,
+      "nameHotel": "Hotel Ascot Opera",
+      "price": 160,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031087/13_aph1ua.png",
+      "star": 4,
+      "location": "Nevada",
+      "review": "Average",
+      "description": [
+        "Conveniently located in Paris, Hotel Ascot Opera is a great base from which to explore this vibrant city. From here, guests can enjoy easy access to all that the lively city has to offer. With the city’s main attractions such as Passage Choiseul, Parfumerie Oriza, Passage Saint-Anne within close reach, visitors to the hotel will just love its location. Hotel Ascot Opera offers impeccable service and all the essential amenities to invigorate travelers. The hotel offers access to a vast array of services, including free Wi-Fi in all rooms, 24-hour front desk, express check-in/check-out, luggage storage, Wi-Fi in public areas. Guests can choose from 36 rooms, all of which exude an atmosphere of total peace and harmony. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at Hotel Ascot Opera."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105408/13-1_f97bsa.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105406/13-2_pwxsrk.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105405/13-3_fewxmj.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105405/13-4_pn7xhr.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105407/13-5_zx3ymo.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Flat Screen TV",
+            "Hot water",
+            "Kitchen"
+          ],
+          "price": 150,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351942/Radisson-Blu-Hotel-Yerevan-2_uddpd4.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351941/Radisson-Blu-Hotel-Yerevan-3_vu6tgs.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351938/Radisson-Blu-Hotel-Yerevan-4_qx67ap.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351937/Radisson-Blu-Hotel-Yerevan-5_lwmjlq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685351937/Radisson-Blu-Hotel-Yerevan_ubfhp5.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Normal Ascot",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 163,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352095/568358be_n4ib5x.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352095/DoubleTree-by-Hilton-Hotel-Yerevan-City-Centre-2_eke5go.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352095/DoubleTree-by-Hilton-Hotel-Yerevan-City-Centre-3_ycnxlf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352095/DoubleTree-by-Hilton-Hotel-Yerevan-City-Centre-4_ml8bem.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352095/DoubleTree-by-Hilton-Hotel-Yerevan-City-Centre_r2kwuf.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Deluxe Ascot",
+          "detail": {
+            "S": "180m²",
+            "Beds": "2",
+            "Adults": "2",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Flat Screen TV",
+            "Hair dryer"
+          ],
+          "price": 175,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352234/Welcome-City-Center-Apartments-2_ebvf4k.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352234/d35437fe_yktbax.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352234/Welcome-City-Center-Apartments-3_rsgzy5.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352233/Welcome-City-Center-Apartments-4_rngg4c.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685352233/Welcome-City-Center-Apartments_sznpaq.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Internet – Wifi",
+        "Restaurant",
+        "Smoking Room",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 14,
+      "id": 14,
+      "nameHotel": "Grand Desert Resort",
+      "price": 195,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031087/14_pbbual.png",
+      "star": 5,
+      "location": "New jersey, Delaware",
+      "review": "Very Good",
+      "description": [
+        "Featuring free WiFi, Park West Hotel is set in Los Angeles, 1.1 km from Koreatown. Free private parking is available on site.",
+        "A flat-screen TV with cable channels, as well as an iPod docking station are offered at Park West Hotel. Select rooms have views of the mountains or city.",
+        "Each room is fitted with a private bathroom. There is a 24-hour front desk at the property. Staples Center is 3.3 km from East West Hotel, while L.A. Live is 3.3 km from the property. The nearest airport is Los Angeles International Airport, 16 km from the property."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105407/14-1_e3opq1.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105404/14-2_mujuyx.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105404/14-3_f7emei.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105405/14-4_ot9vyu.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/14-5_nzyaza.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "180m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hot water"
+          ],
+          "price": 175,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354297/Ani-Grand-Hotel-Yerevan_gel7pc.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354297/Ani-Grand-Hotel-Yerevan-2_qscvzw.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354296/Shangri-La-Dubai-4-1_zynkja.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354295/c082534d_tqxo5r.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354295/Ani-Grand-Hotel-Yerevan-3_qsfmjb.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hot water",
+            "Kitchen"
+          ],
+          "price": 215,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354406/Ramada-Hotel-Suites-by-Wyndham-Yerevan_v1tazf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354405/Ramada-Hotel-Suites-by-Wyndham-Yerevan-5_oa4huz.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354404/Ramada-Hotel-Suites-by-Wyndham-Yerevan-4_tmmq3v.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354403/Ramada-Hotel-Suites-by-Wyndham-Yerevan-2_xfdeol.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354403/Ramada-Hotel-Suites-by-Wyndham-Yerevan-3_nknsud.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Double-Double",
+          "detail": {
+            "S": "170m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 163,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354509/Republica-Hotel-Yerevan_zjrpnv.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354509/Republica-Hotel-Yerevan-2_j2veuv.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354509/Republica-Hotel-Yerevan-5_hlvnqt.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354509/Republica-Hotel-Yerevan-3_ppxqh3.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685354509/Republica-Hotel-Yerevan-4_dfufur.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Restaurant",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 15,
+      "id": 15,
+      "nameHotel": "Las Vegas Hotel",
+      "price": 120,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031087/15_ye8ttb.png",
+      "star": 4,
+      "location": "New jersey, Philadelphia",
+      "review": "Very Good",
+      "description": [
+        "Built in 2014, SLS Las Vegas, A Tribute Portfolio Resort is a distinct addition to Las Vegas (NV) and a smart choice for travelers. The excitement of the city center is only 6 km away. With its convenient location, the hotel offers easy access to the city’s must-see destinations.",
+        "At SLS Las Vegas, A Tribute Portfolio Resort, the excellent service and superior facilities make for an unforgettable stay. 24-hour room service, 24-hour security, convenience store, gift/souvenir shop, taxi service are just a few of the facilities that set SLS Las Vegas, A Tribute Portfolio Resort apart from other hotels in the city.",
+        "SLS Las Vegas, A Tribute Portfolio Resort is home to 1600 bedrooms. All are tastefully furnished and many even provide such comforts as television LCD/plasma screen, air purifier, complimentary instant coffee, complimentary tea, linens. Whether you’re a fitness enthusiast or are just looking for a way to unwind after a hard day, you will be entertained by top-class recreational facilities such as hot tub, fitness center, sauna, outdoor pool, spa. SLS Las Vegas, A Tribute Portfolio Resort is an ideal place of stay for travelers seeking charm, comfort and convenience in Las Vegas (NV)."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/15-1_w0t4m9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105405/15-2_kkczgq.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/15-3_ovjykz.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/15-4_k0h55m.png",
+        ""
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Deluxe",
+          "detail": {
+            "S": "190m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 163,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374271/Address-Beach-Resort-2_yiwt9o.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374271/Address-Beach-Resort-3_sxsa4m.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374268/Address-Beach-Resort_amho8w.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374268/Address-Beach-Resort-1_llvo69.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374268/Address-Beach-Resort-5_oado7y.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Normal Suite",
+          "detail": {
+            "S": "250m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hot water",
+            "Kitchen",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 247,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374380/Address-Dubai-Marina-2_lgecff.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374379/Address-Dubai-Marina-3_uxotd0.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374378/Address-Dubai-Marina_falc1u.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374378/Address-Dubai-Marina-4_yrrz99.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374377/Address-Dubai-Marina-5_fekqlq.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "160m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key",
+            "Towels"
+          ],
+          "price": 195,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374497/Golden-Palace-Hotel-Yerevan_kf1ew8.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374497/a4853582_di0xpb.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374495/Golden-Palace-Hotel-Yerevan-2_xxe3ua.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374494/Golden-Palace-Hotel-Yerevan-4_gdrn6i.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374494/Golden-Palace-Hotel-Yerevan-3_aopqjh.jpg "
+          ]
+        }
+      ],
+      "facilities": [
+        "Airport Transport",
+        "Heater",
+        "Internet – Wifi",
+        "Flat Tv",
+        "Spa & Sauna"
+      ]
+    },
+    {
+      "idHotel": 16,
+      "id": 16,
+      "nameHotel": "Stewart Hotel",
+      "price": 168,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031087/16_c47jdf.png",
+      "star": 4,
+      "location": "New York City",
+      "review": "Very Good",
+      "description": [
+        "Stewart Hotel offers a stylish and cozy accommodation in the heart of New York. The prime location of this property means that guests are just a short walk from important attractions such as Penn Station, Madison Square Garden, and New York City’s famous subway lines which make it even easier to explore more of this vibrant metropolis.",
+        "Stewart Hotels central location also makes it easy for visitors to access iconic attractions such as the Empire State Building, the art galleries in Chelsea, world-class shopping on Fifth Avenue, the live entertainment of Broadway, and the excitement of Times Square.",
+        "Each guestroom at Stewart Hotel is well-equipped with the latest modern conveniences to ensure a pleasant and comfortable stay in New York City. Stewart Hotel’s convenient location and attentive staff make exploring this city an easy and enjoyable experience."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105404/16-1_i43hgw.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/16-2_jvpfci.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105402/16-3_h9dg5s.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/16-4_hodd8f.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105402/16-5_exu74o.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Double Room",
+          "detail": {
+            "S": "190m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 290,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374744/Movenpick-Grand-Al-Bustan-Dubai-2_qivbou.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374743/Movenpick-Grand-Al-Bustan-Dubai-3_vhfdum.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374742/Movenpick-Grand-Al-Bustan-Dubai-4_sa2cwb.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374742/Movenpick-Grand-Al-Bustan-Dubai_rronkq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374742/Movenpick-Grand-Al-Bustan-Dubai-5_wrkura.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "180m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 240,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374997/JA-Ocean-View-Hotel-2_eu5oef.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374995/JA-Ocean-View-Hotel-5_sxnde3.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374995/JA-Ocean-View-Hotel_fleqp9.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374993/JA-Ocean-View-Hotel-3_pldujs.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685374993/JA-Ocean-View-Hotel-4_ledl98.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "140m²",
+            "Beds": "2",
+            "Adults": "2",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Flat Screen TV",
+            "Hair dryer",
+            "Kitchen",
+            "Towels"
+          ],
+          "price": 160,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685375119/Aloft-Dubai-Airport_uib56v.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685375118/53916bcb_xyttlm.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685375118/Aloft-Dubai-Airport-4_hjz2wq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685375117/Aloft-Dubai-Airport-3_yv9avf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685375117/Aloft-Dubai-Airport-2_qhdyed.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Restaurant",
+        "Flat Tv",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 17,
+      "id": 17,
+      "nameHotel": "Crowne Plaza Hotel",
+      "price": 200,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031086/17_x2l7fh.png",
+      "star": 5,
+      "location": "New Jersey, Philadelphia",
+      "review": "Excellent",
+      "description": [
+        "Each guestroom at Stewart Hotel is well-equipped with the latest modern conveniences to ensure a pleasant and comfortable stay in New York City. Stewart Hotel’s convenient location and attentive staff make exploring this city an easy and enjoyable experience.",
+        "A balcony with ocean views is featured in each air-conditioned guest room. A flat-screen TV with cable offers entertainment. A calming aromatherapy kit is provided.",
+        "At Crowne Plaza Hotel Ventura Beach you will find a fitness centre. If you prefer to exercise outdoors, you can jog along the 12.8 km long boardwalk."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105401/17-1_bhzfmo.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105401/17-2_fwdoab.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105403/17-3_sprr4r.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105400/17-4_e84qi9.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105401/17-5_s1slyt.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Shampoo",
+            "Suitcase key",
+            "Wifi"
+          ],
+          "price": 350,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400698/Palazzo-Versace-Dubai-2_ah8oga.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400695/7cbbadfb_ztjjtd.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400691/Palazzo-Versace-Dubai_pxqdsn.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400691/Palazzo-Versace-Dubai-3_f7wr6y.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400691/Palazzo-Versace-Dubai-4_dp68ii.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Executive Room Lake View",
+          "detail": {
+            "S": "230m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen"
+          ],
+          "price": 195,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400840/Premier-Inn-Dubai-Al-Jaddaf-2_vse7cx.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400839/Premier-Inn-Dubai-Al-Jaddaf-3_z7vcec.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400837/Premier-Inn-Dubai-Al-Jaddaf-4_jy1dtk.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400837/Premier-Inn-Dubai-Al-Jaddaf-5_a49iqn.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685400837/Premier-Inn-Dubai-Al-Jaddaf_elk7gu.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Lake Tahoe House",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "5",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 300,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401013/bfe9685b_d0fc7r.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401011/Taj-Dubai-2_oqhf9u.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401011/Taj-Dubai-3_dslbis.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401010/Taj-Dubai-4_erxkyv.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401010/Taj-Dubai_chl7oo.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Restaurant",
+        "Flat Tv",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 18,
+      "id": 18,
+      "nameHotel": "Castello Casole Hotel",
+      "price": 220,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031086/18_uzbfkl.png",
+      "star": 4,
+      "location": "New York City",
+      "review": "Very Good",
+      "description": [
+        "Whether you’re a tourist or traveling on business, Hotel WBF Kitasemba WEST is a great choice for accommodation when visiting Osaka. The excitement of the city center is only away. With its convenient location, the property offers easy access to the city’s must-see destinations.",
+        "Hotel WBF is renowned for its quality services and friendly staff, and Hotel WBF Kitasemba WEST lives up to expectations. Facilities like free Wi-Fi in all rooms, 24-hour security, daily housekeeping, laundromat, taxi service are readily available for the convenience of each guest.",
+        "Experience high quality room facilities during your stay here. Some rooms include humidifier, complimentary tea, towels, clothes rack, slippers to help guests recharge after a long day. The property’s host of recreational offerings ensures you have plenty to do during your stay. Hotel WBF Kitasemba WEST is a smart choice for travelers to Osaka, offering a relaxed and hassle-free stay every time."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105400/18-1_tnimwd.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105401/18-2_lmdlfd.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105401/18-3_oeid4d.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105399/18-4_scvowd.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105399/18-5_pywzg9.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "260m²",
+            "Beds": "3",
+            "Adults": "5",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Shampoo",
+            "Towels"
+          ],
+          "price": 261,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401362/bd568819_xy5kyf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401361/The-First-Collection-at-Jumeirah-Village-Circle-3_jmk8re.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401361/The-First-Collection-at-Jumeirah-Village-Circle-2_jmdrqu.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401361/The-First-Collection-at-Jumeirah-Village-Circle-4_m2gdim.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401360/The-First-Collection-at-Jumeirah-Village-Circle_kycwun.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "210m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hot water",
+            "Shampoo",
+            "Towels"
+          ],
+          "price": 150,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401590/Travel-Vacations-Cheap-Flights-Airline-Tickets-Airfares_ffeweq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401591/Travel-Vacations-Cheap-Flights-Airline-Tickets-Airfares-2_cbguve.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401591/Travel-Vacations-Cheap-Flights-Airline-Tickets-Airfares-3_gcegwm.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401590/Travel-Vacations-Cheap-Flights-Airline-Tickets-Airfares-4_woizrf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401590/Travel-Vacations-Cheap-Flights-Airline-Tickets-Airfares-5_ljp11s.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Standard Double",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "2",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 200,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401733/Radisson-Dubai-Damac-Hills-4_h2qqu9.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401733/Radisson-Dubai-Damac-Hills_p90d9e.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401733/Radisson-Dubai-Damac-Hills-3_unbnu2.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401732/Radisson-Dubai-Damac-Hills-2_xbiaz1.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685401732/Radisson-Dubai-Damac-Hills-5_egmtuz.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Flat Tv",
+        "Heater",
+        "Restaurant",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 19,
+      "id": 19,
+      "nameHotel": "Shinagawa Prince Hotel",
+      "price": 170,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031086/19_jrtrrx.png",
+      "star": 5,
+      "location": "New jersey, Delaware",
+      "review": "Excellent",
+      "description": [
+        "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+        "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+        "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105400/19-1_t5vfu6.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105398/19-2_gbo0la.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105398/19-3_r4jnln.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105399/19-4_kwmwbj.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105398/19-5_dejknr.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Room Width Lake View",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 210,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402005/Adagio-Jumeirah-Village-Triangle_rvijse.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402005/Adagio-Jumeirah-Village-Triangle-5_g7osmz.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402004/Adagio-Jumeirah-Village-Triangle-2_mcpwqq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402004/Adagio-Jumeirah-Village-Triangle-4_k6ynk3.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402004/Adagio-Jumeirah-Village-Triangle-3_smtkcw.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "300m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Kitchen",
+            "Shampoo",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 350,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402113/Address-Dubai-Mall-2_bjmuoo.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402113/Address-Dubai-Mall-5_bayl9d.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402113/Address-Dubai-Mall-5_bayl9d.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402113/Address-Dubai-Mall-4_hputzk.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685402113/Address-Dubai-Mall_cqja1v.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Room Sheraton Hotel",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Bathroom robe",
+            "Bathtub",
+            "Hair dryer",
+            "Hot water",
+            "Suitcase key"
+          ],
+          "price": 200,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410465/Stella-Di-Mare-Dubai-Marina-Hotel-2_gexjke.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410463/Stella-Di-Mare-Dubai-Marina-Hotel-3_l2whxt.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410463/Stella-Di-Mare-Dubai-Marina-Hotel_uzwa5x.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410463/Stella-Di-Mare-Dubai-Marina-Hotel-5_fs8eed.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410463/Stella-Di-Mare-Dubai-Marina-Hotel-4_ln2p7b.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Flat Tv",
+        "Internet – Wifi",
+        "Restaurant",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    },
+    {
+      "idHotel": 20,
+      "id": 20,
+      "nameHotel": "Royal Garden Hotel",
+      "price": 145,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031086/20_nootxn.png",
+      "star": 5,
+      "location": "California",
+      "review": "Excellent",
+      "description": [
+        "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+        "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+        "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105397/20-1_qiau1k.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105397/20-2_jtf8gl.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105398/20-3_c60wfd.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105397/20-4_ufpwdm.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105396/20-5_vivcad.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Double-Double Room",
+          "detail": {
+            "S": "230m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "4"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 165,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410701/Premier-Inn-Dubai-Ibn-Battuta-Mall-5_vqbiay.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410701/Premier-Inn-Dubai-Ibn-Battuta-Mall-4_eshpat.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410701/Premier-Inn-Dubai-Ibn-Battuta-Mall-2_iyb6no.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410700/Premier-Inn-Dubai-Ibn-Battuta-Mall-3_qikjud.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410700/Premier-Inn-Dubai-Ibn-Battuta-Mall_h0lnwe.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 300,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410886/Hilton-Dubai-Al-Habtoor-City-2_f3qy6c.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410885/Hilton-Dubai-Al-Habtoor-City_gqiaul.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410883/Hilton-Dubai-Al-Habtoor-City-3_lfeita.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410883/feb902de_lwkyfc.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685410883/776341ee_zdfv1r.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "350m²",
+            "Beds": "4",
+            "Adults": "5",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Kitchen",
+            "Hot water",
+            "Shampoo",
+            "Wifi"
+          ],
+          "price": 350,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685411023/Address-Beach-Resort_wgnc9q.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685411022/bcf10168_kl0ygs.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685411021/Address-Beach-Resort-4_xkmrmm.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685411020/Address-Beach-Resort-3_mcwp2m.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685411020/Address-Beach-Resort-2_ompi4r.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Fitness Center",
+        "Internet – Wifi",
+        "Smoking Room"
+      ]
+    },
+    {
+      "idHotel": 21,
+      "id": 21,
+      "nameHotel": "Park West Hotel",
+      "price": 190,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031085/21_oruqwb.jpg",
+      "star": 3,
+      "location": "San Francisco",
+      "review": "Average",
+      "description": [
+        "Conveniently located in Boston (MA), enVision Hotel Boston-Longwood an Ascend Hotel Col is a great base from which to explore this vibrant city. From here, guests can enjoy easy access to all that the lively city has to offer. No less exceptional is the hotel’s easy access to the city’s myriad attractions and landmarks, such as Children’s Hospital, Massart, Gasp.",
+        "First-rate hotel services and facilities that define the Choice Hotels experience await you at the enVision Hotel Boston-Longwood an Ascend Hotel Col. For the comfort and convenience of guests, the hotel offers Wi-Fi in public areas, pets allowed.",
+        "Experience high quality room facilities during your stay here. Some rooms include television LCD/plasma screen, air conditioning, heating, iPod docking station, internet access – LAN (complimentary), provided to help guests recharge after a long day. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at enVision Hotel Boston-Longwood an Ascend Hotel Col."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105396/21-1_hrzpxj.jpg",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105397/21-2_zd64d1.jpg",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105396/21-3_fmzf4c.jpg",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105396/21-4_owgdg4.jpg",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105395/21-5_szuftt.jpg"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "130m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Cart food",
+            "Flat Screen TV",
+            "Hot water",
+            "Shampoo",
+            "Suitcase key",
+            "Wifi"
+          ],
+          "price": 130,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412267/Edge-Creekside-Hotel-2_vi6n4k.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412263/Edge-Creekside-Hotel_zm7zni.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412263/Edge-Creekside-Hotel-4_zpo8gd.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412263/Edge-Creekside-Hotel-5_ftvk7a.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412263/Edge-Creekside-Hotel-3_il0n7x.png"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Executive Lake View",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Hair dryer",
+            "Hot water",
+            "Kitchen",
+            "Shampoo"
+          ],
+          "price": 215,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412397/Hyatt-Centric-Jumeirah-Dubai-2_w5wrrm.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412397/Hyatt-Centric-Jumeirah-Dubai-3_vsjlj2.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412397/Hyatt-Centric-Jumeirah-Dubai-4_tg3v7z.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412397/Hyatt-Centric-Jumeirah-Dubai-5_gqwlgk.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412397/Hyatt-Centric-Jumeirah-Dubai_kdl5fa.png"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "External Room",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Cart food",
+            "Hair dryer"
+          ],
+          "price": 150,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412469/b5634aed_xize8k.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412468/Revier-Dubai-3_sp1yoy.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412468/Revier-Dubai-4_pvihte.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412467/Revier-Dubai-2_thkeum.png",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412467/Revier-Dubai_dlyfrg.png"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Flat Tv",
+        "Heater",
+        "Internet – Wifi",
+        "Spa & Sauna"
+      ]
+    },
+    {
+      "idHotel": 22,
+      "id": 22,
+      "nameHotel": "Hyatt Centric Square",
+      "price": 235,
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031091/22_bewku0.png",
+      "star": 3,
+      "location": "New jersey, Philadelphia",
+      "review": "Excellent",
+      "description": [
+        "Conveniently located in Boston (MA), enVision Hotel Boston-Longwood an Ascend Hotel Col is a great base from which to explore this vibrant city. From here, guests can enjoy easy access to all that the lively city has to offer. No less exceptional is the hotel’s easy access to the city’s myriad attractions and landmarks, such as Children’s Hospital, Massart, Gasp.",
+        "First-rate hotel services and facilities that define the Choice Hotels experience await you at the enVision Hotel Boston-Longwood an Ascend Hotel Col. For the comfort and convenience of guests, the hotel offers Wi-Fi in public areas, pets allowed.",
+        "Experience high quality room facilities during your stay here. Some rooms include television LCD/plasma screen, air conditioning, heating, iPod docking station, internet access – LAN (complimentary), provided to help guests recharge after a long day. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at enVision Hotel Boston-Longwood an Ascend Hotel Col."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105395/22-1_rrnhut.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105395/22-2_xgj8ue.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/22-3_r1sp9t.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/22-4_ngez37.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105394/22-5_s0gj7o.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Standard Room",
+          "detail": {
+            "S": "150m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 155,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412761/4342ecec_cndp6y.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412761/Grand-Mercure-Dubai-Airport-Hotel-4_xz6xg4.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412761/Grand-Mercure-Dubai-Airport-Hotel_s2sb8h.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412760/Grand-Mercure-Dubai-Airport-Hotel-2_zt3onq.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412760/Grand-Mercure-Dubai-Airport-Hotel-3_zfqhol.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nameRoom": "Queen Room",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water"
+          ],
+          "price": 258,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412849/First-Central-Hotel-Suites-3_sepwrl.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412849/First-Central-Hotel-Suites_lsr74c.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412849/0704177b_s1gddy.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412849/First-Central-Hotel-Suites-2_sloo3m.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412848/First-Central-Hotel-Suites-4_dj5wz5.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "nameRoom": "Deluxe",
+          "detail": {
+            "S": "200m²",
+            "Beds": "2",
+            "Adults": "4",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [
+            "Air Conditioning",
+            "Bathroom robe",
+            "Bathtub",
+            "Flat Screen TV",
+            "Hair dryer",
+            "Hot water",
+            "Shampoo",
+            "Towels",
+            "Wifi"
+          ],
+          "price": 168,
+          "images": [
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412950/Address-Fountain-Views_ht11jf.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412948/Address-Fountain-Views-3_ehbywr.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412948/Address-Fountain-Views-2_bvdx6e.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412948/Address-Fountain-Views-5_htnxqh.jpg",
+            "https://res.cloudinary.com/dsipp2yve/image/upload/v1685412947/Address-Fountain-Views-4_neqlkh.jpg"
+          ]
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Flat Tv",
+        "Pool",
+        "Restaurant",
+        "Spa & Sauna"
+      ]
+    },
+    {
+      "idHotel": 23,
+      "id": 23,
+      "nameHotel": "Edwardian Kenilworth",
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031090/23_njoaqi.png",
+      "star": 5,
+      "location": "Virginia, Virginia Beach",
+      "review": "Excellent",
+      "description": [
+        "Conveniently located in Boston (MA), enVision Hotel Boston-Longwood an Ascend Hotel Col is a great base from which to explore this vibrant city. From here, guests can enjoy easy access to all that the lively city has to offer. No less exceptional is the hotel’s easy access to the city’s myriad attractions and landmarks, such as Children’s Hospital, Massart, Gasp.",
+        "First-rate hotel services and facilities that define the Choice Hotels experience await you at the enVision Hotel Boston-Longwood an Ascend Hotel Col. For the comfort and convenience of guests, the hotel offers Wi-Fi in public areas, pets allowed.",
+        "Experience high quality room facilities during your stay here. Some rooms include television LCD/plasma screen, air conditioning, heating, iPod docking station, internet access – LAN (complimentary), provided to help guests recharge after a long day. Besides, the hotel’s host of recreational offerings ensures you have plenty to do during your stay. Discover an engaging blend of professional service and a wide array of features at enVision Hotel Boston-Longwood an Ascend Hotel Col."
+      ],
+      "images": [
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105393/23-1_kgyxuk.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105393/23-2_lebohi.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105392/23-3_k9nmhp.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105392/23-4_s1uzyk.png",
+        "https://res.cloudinary.com/dsipp2yve/image/upload/v1685105391/23-5_mm8wrv.png"
+      ],
+      "rooms": [
+        {
+          "id": 1,
+          "nameRoom": "Lake Tahoe House",
+          "detail": {
+            "S": "200m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "1"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [],
+          "price": 160,
+          "images": []
+        },
+        {
+          "id": 2,
+          "nameRoom": "Junior Suite",
+          "detail": {
+            "S": "245m²",
+            "Beds": "2",
+            "Adults": "3",
+            "Children": "2"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [],
+          "price": 160,
+          "images": []
+        },
+        {
+          "id": 3,
+          "nameRoom": "Family Suite",
+          "detail": {
+            "S": "300m²",
+            "Beds": "3",
+            "Adults": "4",
+            "Children": "3"
+          },
+          "description": [
+            "Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony.",
+            "Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.",
+            "A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available."
+          ],
+          "facilities": [],
+          "price": 160,
+          "images": []
+        }
+      ],
+      "facilities": [
+        "Air Conditioning",
+        "Airport Transport",
+        "Flat Tv",
+        "Restaurant",
+        "Spa & Sauna",
+        "Washer & Dryer"
+      ]
+    }
+  ],
+  "location": [
     {
       "id": 1,
-      "name": "Product001",
-      "cost": 10,
-      "quantity": 1000,
-      "locationId": 1,
-      "familyId": 1
+      "name": "California",
+      "numberLocation": 14,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689305960/Los-Angeles-400x400_elz1kf.jpg"
     },
     {
       "id": 2,
-      "name": "Product002",
-      "cost": 20,
-      "quantity": 2000,
-      "locationId": 1,
-      "familyId": 2
+      "name": "Los Angeles",
+      "numberLocation": 13,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689306937/Los-Angeles-400x400_pzunph.jpg"
     },
     {
       "id": 3,
-      "name": "Product003",
-      "cost": 30,
-      "quantity": 3000,
-      "locationId": 3,
-      "familyId": 2
+      "name": "Nevada",
+      "numberLocation": 11,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689307072/Nevada_-400x400_xnxumc.jpg"
     },
     {
       "id": 4,
-      "name": "Product004",
-      "cost": 40,
-      "quantity": 4000,
-      "locationId": 2,
-      "familyId": 3
+      "name": "New Jersey",
+      "numberLocation": 7,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689306841/New-Jersey-400x400_dnfdkq.jpg",
+      "district": [
+        "Delaware",
+        "Philadelphia"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "New Yort City",
+      "numberLocation": 7,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689306754/New-York-City-400x400_kkbtjv.jpg"
+    },
+    {
+      "id": 6,
+      "name": "San Francisco",
+      "numberLocation": 5,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689306984/San-Francisco-400x400_cjifqk.jpg",
+      "district": [
+        "Wilmington"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Virginia",
+      "numberLocation": 3,
+      "image": "https://res.cloudinary.com/ducimayyw/image/upload/v1689306995/Virginia-400x400_tp9lnh.jpg",
+      "district": [
+        "Virginia Beach"
+      ]
     }
   ],
-  "carts": [
+  "rooms": [],
+  "reviews": [
+    {
+      "name": "1",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "1",
+      "content": "1",
+      "time": "19:40 06/08/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "checkin",
+          "value": 5
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 3
+        },
+        {
+          "name": "accuracy",
+          "value": 3
+        },
+        {
+          "name": "value",
+          "value": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "2",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "1",
+      "content": "2",
+      "time": "19:43 06/08/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "accuracy",
+          "value": 4
+        },
+        {
+          "name": "communication",
+          "value": 4
+        },
+        {
+          "name": "location",
+          "value": 3
+        },
+        {
+          "name": "checkin",
+          "value": 3
+        },
+        {
+          "name": "value",
+          "value": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Thịnh Phạm Đình",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "rất tốt",
+      "content": "rất tốt 5 sao",
+      "time": "18:43 27/09/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 3
+        },
+        {
+          "name": "checkin",
+          "value": 4
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 4
+        },
+        {
+          "name": "accuracy",
+          "value": 4
+        },
+        {
+          "name": "value",
+          "value": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Lona pham",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "123",
+      "content": "Great value for money” Place was clean with everything you need provided. Best to stay if you have rented a car. Staff very friendly and helpful. Would definitely would like to come back again.",
+      "time": "17:26 01/10/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "checkin",
+          "value": 5
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 5
+        },
+        {
+          "name": "accuracy",
+          "value": 5
+        },
+        {
+          "name": "value",
+          "value": 5
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Lien Truong",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "123",
+      "content": "My favorite stay in !! The room is big, clean and so tidy. The cooking area and lotion provided was the favorite parts! Will come again if I visit.",
+      "time": "17:29 01/10/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "checkin",
+          "value": 5
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 5
+        },
+        {
+          "name": "accuracy",
+          "value": 5
+        },
+        {
+          "name": "value",
+          "value": 5
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Messi Lonel",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "123",
+      "content": "If you want to get away from city life, rent a car and book Joyuam. It is a no-frills accommodation where you can enjoy fresh air and serene surronding. A pity we only stayed 2 nights. I’ll book this place again next time.",
+      "time": "17:29 01/10/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "checkin",
+          "value": 5
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 5
+        },
+        {
+          "name": "accuracy",
+          "value": 5
+        },
+        {
+          "name": "value",
+          "value": 5
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "bookRoom": [
+    {
+      "checkIn": "10/05/2023",
+      "checkOut": "10/21/2023",
+      "numberRooms": 1,
+      "numberAdults": 1,
+      "numberChildren": 0,
+      "numberOffNight": 16,
+      "totalPrice": "$2,960.00",
+      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/7_pe8m82.png",
+      "images": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155137/5066502e_na7bhm.jpg",
+      "location": "Poor",
+      "nameRoom": "Family Suite",
+      "nameHotel": "Hotel Astotel",
+      "id": 1
+    }
+  ],
+  "vouchers": [
     {
       "id": 1,
-      "price": 500,
-      "productId": 4
+      "startVoucher": "05/20/2023",
+      "endVoucher": "06/20/2023",
+      "nameVoucher": "Giảm 20%",
+      "priceVoucher": "20%",
+      "numberVoucher": "20"
     },
     {
       "id": 2,
-      "price": 700,
-      "productId": 3
+      "startVoucher": "05/20/2023",
+      "endVoucher": "06/15/2023",
+      "nameVoucher": "Giảm 10%",
+      "priceVoucher": "10%",
+      "numberVoucher": "15"
+    },
+    {
+      "id": 3,
+      "startVoucher": "05/30/2023",
+      "endVoucher": "06/20/2023",
+      "nameVoucher": "Giảm 50%",
+      "priceVoucher": "50%",
+      "numberVoucher": "10"
+    },
+    {
+      "id": 4,
+      "startVoucher": "05/20/2023",
+      "endVoucher": "06/20/2023",
+      "nameVoucher": "Giảm 20%",
+      "priceVoucher": "20%",
+      "numberVoucher": "20"
     }
   ]
 }

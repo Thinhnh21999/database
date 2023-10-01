@@ -15,7 +15,13 @@ server.use(jsonServer.defaults());
 const SECRET_KEY = "123456789";
 
 // list api not have check auth
-const API_NOT_AUTH = ["/products"];
+const API_NOT_AUTH = [
+  "/products",
+  "/location",
+  "/hotels",
+  "/reviews",
+  "/bookRoom",
+];
 
 const expiresIn = "1h";
 
@@ -68,7 +74,12 @@ server.post("/auth/register", (req, res) => {
     var last_item_id = data.users[data.users.length - 1]?.id;
 
     //Add new user
-    data.users.push({ id: last_item_id + 1, email: email, password: password, ...rest }); //add some data
+    data.users.push({
+      id: last_item_id + 1,
+      email: email,
+      password: password,
+      ...rest,
+    }); //add some data
     var writeData = fs.writeFile(
       "./users.json",
       JSON.stringify(data),
@@ -95,6 +106,7 @@ server.post("/auth/login", (req, res) => {
   console.log("login endpoint called; request body:");
   console.log(req.body);
   const { email, password } = req.body;
+  console.log(isAuthenticated({ email, password }));
   if (isAuthenticated({ email, password }) === false) {
     const status = 401;
     const message = "Incorrect email or password";
