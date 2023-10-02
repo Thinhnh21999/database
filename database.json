@@ -2769,6 +2769,7 @@
       "nameHotel": "Edwardian Kenilworth",
       "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685031090/23_njoaqi.png",
       "star": 5,
+      "price": 320,
       "location": "Virginia, Virginia Beach",
       "review": "Excellent",
       "description": [
@@ -2906,108 +2907,6 @@
   "rooms": [],
   "reviews": [
     {
-      "name": "1",
-      "email": "dinhthinh991999@gmail.com",
-      "title": "1",
-      "content": "1",
-      "time": "19:40 06/08/2023",
-      "rate": [
-        {
-          "name": "cleanliness",
-          "value": 5
-        },
-        {
-          "name": "checkin",
-          "value": 5
-        },
-        {
-          "name": "location",
-          "value": 5
-        },
-        {
-          "name": "communication",
-          "value": 3
-        },
-        {
-          "name": "accuracy",
-          "value": 3
-        },
-        {
-          "name": "value",
-          "value": 4
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "2",
-      "email": "dinhthinh991999@gmail.com",
-      "title": "1",
-      "content": "2",
-      "time": "19:43 06/08/2023",
-      "rate": [
-        {
-          "name": "cleanliness",
-          "value": 5
-        },
-        {
-          "name": "accuracy",
-          "value": 4
-        },
-        {
-          "name": "communication",
-          "value": 4
-        },
-        {
-          "name": "location",
-          "value": 3
-        },
-        {
-          "name": "checkin",
-          "value": 3
-        },
-        {
-          "name": "value",
-          "value": 5
-        }
-      ],
-      "id": 2
-    },
-    {
-      "name": "Thịnh Phạm Đình",
-      "email": "dinhthinh991999@gmail.com",
-      "title": "rất tốt",
-      "content": "rất tốt 5 sao",
-      "time": "18:43 27/09/2023",
-      "rate": [
-        {
-          "name": "cleanliness",
-          "value": 3
-        },
-        {
-          "name": "checkin",
-          "value": 4
-        },
-        {
-          "name": "location",
-          "value": 5
-        },
-        {
-          "name": "communication",
-          "value": 4
-        },
-        {
-          "name": "accuracy",
-          "value": 4
-        },
-        {
-          "name": "value",
-          "value": 4
-        }
-      ],
-      "id": 3
-    },
-    {
       "name": "Lona pham",
       "email": "dinhthinh991999@gmail.com",
       "title": "123",
@@ -3108,25 +3007,43 @@
         }
       ],
       "id": 6
-    }
-  ],
-  "bookRoom": [
+    },
     {
-      "checkIn": "10/05/2023",
-      "checkOut": "10/21/2023",
-      "numberRooms": 1,
-      "numberAdults": 1,
-      "numberChildren": 0,
-      "numberOffNight": 16,
-      "totalPrice": "$2,960.00",
-      "image": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685030490/7_pe8m82.png",
-      "images": "https://res.cloudinary.com/dsipp2yve/image/upload/v1685155137/5066502e_na7bhm.jpg",
-      "location": "Poor",
-      "nameRoom": "Family Suite",
-      "nameHotel": "Hotel Astotel",
-      "id": 1
+      "name": "Thịnh Phạm Đình",
+      "email": "dinhthinh991999@gmail.com",
+      "title": "123",
+      "content": "My favorite stay in !! The room is big, clean and so tidy. The cooking area and lotion provided was the favorite parts! Will come again if I visit.",
+      "time": "17:36 02/10/2023",
+      "rate": [
+        {
+          "name": "cleanliness",
+          "value": 5
+        },
+        {
+          "name": "checkin",
+          "value": 5
+        },
+        {
+          "name": "location",
+          "value": 5
+        },
+        {
+          "name": "communication",
+          "value": 5
+        },
+        {
+          "name": "accuracy",
+          "value": 5
+        },
+        {
+          "name": "value",
+          "value": 5
+        }
+      ],
+      "id": 7
     }
   ],
+  "bookRoom": [],
   "vouchers": [
     {
       "id": 1,
