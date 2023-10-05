@@ -1,1 +1,53 @@
-{"users":[{"id":null,"email":"thinhdinh@gmail.com","password":"123","username":"dinhthinh","fullname":"dinh thinh"},{"id":1,"email":"dinhthinh123@gmail.com","password":"123456","username":"Dinh Thinh","fullname":"Pham Dinh Thinh"},{"id":2,"email":"123@gmail.com","password":"123","username":"thinh","fullname":"dinh thinh"},{"id":3,"email":"1234@gmail.com","password":"123","username":"123","fullname":"123"},{"id":4,"email":"12345@gmail.com","password":"123","username":"1","fullname":"1"},{"id":5,"email":"thinhdinh1@gmail.com","password":"1","username":"1","fullname":"1"},{"id":6,"email":"thinhdinh12@gmail.com","password":"1","username":"1","fullname":"1"}]}
+{
+  "users": [
+    {
+      "id": null,
+      "email": "thinhdinh@gmail.com",
+      "password": "123",
+      "username": "dinhthinh",
+      "fullname": "dinh thinh"
+    },
+    {
+      "id": 1,
+      "email": "dinhthinh123@gmail.com",
+      "password": "123456",
+      "username": "Dinh Thinh",
+      "fullname": "Pham Dinh Thinh"
+    },
+    {
+      "id": 2,
+      "email": "123@gmail.com",
+      "password": "123",
+      "username": "thinh",
+      "fullname": "dinh thinh"
+    },
+    {
+      "id": 3,
+      "email": "1234@gmail.com",
+      "password": "123",
+      "username": "123",
+      "fullname": "123"
+    },
+    {
+      "id": 4,
+      "email": "12345@gmail.com",
+      "password": "123",
+      "username": "1",
+      "fullname": "1"
+    },
+    {
+      "id": 5,
+      "email": "thinhdinh1@gmail.com",
+      "password": "1",
+      "username": "1",
+      "fullname": "1"
+    },
+    {
+      "id": 6,
+      "email": "thinhdinh12@gmail.com",
+      "password": "1",
+      "username": "1",
+      "fullname": "1"
+    }
+  ]
+}
